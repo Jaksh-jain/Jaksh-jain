@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-🎯 Self-driven developer who loves crafting elegant frontend experiences and efficient backend logic.  
-🧠 Currently diving deep into **React**, **Django**, and **UI/UX**.  
+🎯 Self-driven developer who loves crafting elegant frontend experiences.  
+🧠 Currently diving deep into **React**, **Django**, **Python** and **UI/UX**.  
 💬 Ask me about 'Python', 'JavaScript', or how to break things just to fix them again. Dev life, right?  
 ☕ Fun fact: *I turn CHAI into clean, creative code.*  
 🌐 **Check out my portfolio:** [jaksh-jain.github.io/Jaksh-ain](https://jaksh-jain.github.io/Jaksh-ain)
