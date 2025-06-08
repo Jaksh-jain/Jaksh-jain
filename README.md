@@ -15,7 +15,7 @@
 
 🎯 Self-driven developer who loves crafting elegant frontend experiences and efficient backend logic.  
 🧠 Currently diving deep into **React**, **Django**, and **UI/UX**.  
-💬 Ask me about `Python`, `JavaScript`, or anything in tech — I love to share!  
+💬 Ask me about 'Python', 'JavaScript', or how to break things just to fix them again. Dev life, right?  
 ☕ Fun fact: *I turn caffeine into clean, creative code.*  
 🌐 **Check out my portfolio:** [jaksh-jain.github.io/Jaksh-ain](https://jaksh-jain.github.io/Jaksh-ain)
 
@@ -24,7 +24,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jakshjain" target="_blank">
+  <a href="https://www.linkedin.com/in/jaksh-jain-87079431a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/_jakshuuuuuu" target="_blank">
